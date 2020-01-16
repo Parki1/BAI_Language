@@ -47,10 +47,10 @@
     "bai_c1" : "C1",
     "bai_c2" : "C2",
 
-    "bai_halo_reach_hud" : "Halo: Reach HUD Options",
-    "bai_halo_reach_hud_desc" : "Apply BAI specific settings to Halo: Reach HUD",
-    "bai_halo_reach_hud_use_bai_color" : "Use Colors from BAI",
-    "bai_halo_reach_hud_use_bai_color_desc" : "When enabled, assault panel will use colors from BAI\nOtherwise default color will be used",
+    "bai_halo_reach_hud" : "Halo: Reach HUD 選項",
+    "bai_halo_reach_hud_desc" : "將BAI特定設置應用於",
+    "bai_halo_reach_hud_use_bai_color" : "使用BAI中的顏色",
+    "bai_halo_reach_hud_use_bai_color_desc" : "啟用後，攻擊面板將使用BAI中的顏色\ n否則將使用默認顏色",
 
     "bai_button_ok" : "OK",
     "bai_detected_wolfhud" : "偵測到已啟用的 WolfHUD",
@@ -132,7 +132,7 @@
     "bai_enabled_not_assault_desc" : "若打勾, 這個狀態將顯示在突襲横幅中. 若不打勾,該狀態不會顯示在横幅中.",
     "bai_enabled_assault_desc" : "若打勾, 這個狀態將顯示在突襲横幅中. 若不打勾,該狀態不會顯示在横幅中.",
 
-    "bai_show_advanced_assault_info" : "顯示更详细的突襲信息",	
+    "bai_show_advanced_assault_info" : "顯示更詳细的突襲信息",	
     "bai_show_advanced_assault_info_desc" : "在突襲横幅中顯示剩餘的敵人數量和剩餘時間\n此功能在無盡突襲下或隊長到達時不可用。當你作為玩家時有些選項將不可用",
     
     "bai_advanced_assault_info" : "進階突襲信息",
@@ -165,14 +165,14 @@
     "bai_faction_assault_text" : "在突襲横幅中顯示敵人陣營",
     "bai_faction_assault_text_desc" : "在突襲横幅中顯示敵人的陣營\n'自定義文本' 無法與此功能同時使用. 犯罪狂歡模式下無效",
 
-    "bai_modules" : "Modules",
-    "bai_modules_desc" : "Modules improve or extend BAI's features. If the module has additional options, they will be listed here.",
+    "bai_modules" : "模組",
+    "bai_modules_desc" : "模組改善或擴展BAI的功能, 如果模塊具有其他選項,則將在此處列出。",
 
-    "bai_assault_panel_position" : "Assault Panel Position",
-    "bai_assault_panel_position_desc" : "Sets Assault Panel Position on the screen",
-    "bai_assault_panel_position_1" : "Right",
-    "bai_assault_panel_position_2" : "Center",
-    "bai_assault_panel_position_3" : "Left",
+    "bai_assault_panel_position" : "突擊橫幅位置",
+    "bai_assault_panel_position_desc" : "在螢幕上設置“突擊橫幅”位置",
+    "bai_assault_panel_position_1" : "右",
+    "bai_assault_panel_position_2" : "中央",
+    "bai_assault_panel_position_3" : "左",
     
     "hud_assault_alpha_fss_mod_1" : "自殺",
     "hud_assault_alpha_fss_mod_2" : "受虐狂",
@@ -242,5 +242,5 @@
     "hud_fss_mod_1" : "嘗試自殺中",
     "hud_fss_mod_2" : "持續受虐中",
     "hud_fss_mod_3" : "抖M認證中",
-    "hud_no_return" : "No Return"
+    "hud_no_return" : "別返回"
 }
