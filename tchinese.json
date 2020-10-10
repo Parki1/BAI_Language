@@ -1,6 +1,18 @@
 {
     "bai_mod_title" : "更好的突襲橫幅(設定)",
-    "bai_mod_desc" : "在這裡更改BAI的設定",
+    "bai_mod_desc" : "更改MOD的設定",	
+
+    "bai_menu_next_page" : "下一頁",
+    "bai_menu_previous_page" : "上一頁",
+
+    "bai_enabled" : "啟用",
+    "bai_disabled" : "關閉:",
+
+    "bai_compatible_huds" : "'$VALUE' 與:\n兼容",
+    "bai_compatible_huds_option" :"此選項與兼容:\n",
+    "bai_incompatible_huds" : "'$VALUE' 與以下不兼容:\n",
+    "bai_incompatible_huds_option" : "該選項與:\n不兼容",
+    "bai_default_option" : "如果您安裝了其他HUD，則此選項將默認為:\n'$VALUE'",
 	
     "bai_language" : "語言",
     "bai_language_desc" : "更改mod使用語言,要使這個選項生效,需要重啟遊戲",
@@ -8,23 +20,18 @@
 	
     "bai_compatibility" : "HUD 兼容選項",
     "bai_compatibility_desc" : "可根據你所使用的 HUD 選擇所需要的兼容選項.\n若選錯可能會導致遊戲崩潰.\n默認自動識別當前使用的HUD",
-    "bai_compatibility_1" : "自動識別",
-    "bai_compatibility_2" : "不使用兼容選項",
-    "bai_compatibility_4" : "Sora's HUD '重生版",
-    "bai_compatibility_7" : "PD:TH HUD 重製版",
+    "bai_compatibility_1" : "自動檢測",
+    "bai_compatibility_2" : "原版",
 
     "bai_holoui" : "適用於 HoloUI 的設定突變",
-    "bai_holoui_desc" : "這些是為 HoloUI 而生的功能",
     "bai_holoui_update_text_color" : "横幅字體顏色更新",
     "bai_holoui_update_text_color_desc" : "當BAI 更新横幅框的顏色時也更新框内字的顏色.",
-
-    "bai_pdth_hud_reborn" : "適用於 PD:TH HUD 重制版的選項",
-    "bai_pdth_hud_reborn_desc" : "這些是為 PD:TH HUD 重制版而生的功能",
+	    
+    "bai_pdth_hud_reborn_desc" : "將BAI特定設置應用於PD：TH HUD Reborn",
     "bai_pdth_hud_reborn_custom_text_color" : "使用自定義文字顏色",
-    "bai_pdth_hud_reborn_custom_text_color_desc" : "禁用該功能時會將突襲圖標的顏色應用於顯示的文字上",
+    "bai_pdth_hud_reborn_custom_text_color_desc" : "禁用時,遊戲會將突擊圖標的顏色應用於文字",
 
-    "bai_restoration_mod" : "適用於 Restoration Mod 的選項",
-    "bai_restoration_mod_desc" : "這些是為 Restoration Mod 而生的功能",
+    "bai_restoration_mod" : "將BAI特定設置應用於Restoration Mod",
     "bai_restoration_mod_alpha_tape_only" : "僅影響右上角 Alpha 版横幅的選項",
     "bai_restoration_mod_alpha_tape_only_desc" : " 這些選項僅影響右上角的 'Alpha Tape'",
     "bai_restoration_mod_include_cover_text" : "在横幅中包含 'STAY IN THE COVER'",
@@ -38,7 +45,6 @@
     "bai_c1" : "C1",
     "bai_c2" : "C2",
 
-    "bai_halo_reach_hud" : "Halo: Reach HUD選項",
     "bai_halo_reach_hud_desc" : "將BAI特定設置應用於 Halo: Reach HUD",
     "bai_halo_reach_hud_use_bai_color" : "使用BAI中的顏色",
     "bai_halo_reach_hud_use_bai_color_desc" : "啟用後，攻擊面板將使用BAI中的顏色\n否則將使用默認顏色",
